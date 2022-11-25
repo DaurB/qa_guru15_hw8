@@ -1,0 +1,11 @@
+{
+  "name": "Dauren",
+  "secondName": "Bibol",
+  "age": 24,
+  "isGoodStudent": true,
+  "lessons": ["Files", "Git", "Junit 5"],
+  "passport" : {
+    "number": 123456,
+    "issueDate": "12.12.2022"
+  }
+}
